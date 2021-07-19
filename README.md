@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - Hi, I am Archish
-- Freshman from Indian Institute of Technology Madras.
+- Sophomore from Indian Institute of Technology Madras.
 - I’m currently working on Deep Learning
 - I’m currently learning Reinforcement Learning
 - How to reach me: archish17@gmail.com

@@ -5,6 +5,6 @@
 Here are some ideas to get you started:
 
 - Hi, I am Archish
-- Junior from Indian Institute of Technology Madras.
+- Senior from Indian Institute of Technology Madras.
 - I’m currently working on Deep Learning
 - How to reach me: archish17@gmail.com
